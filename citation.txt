@@ -1,0 +1,17 @@
+@inproceedings{REPO138,
+    author = "Tai, Wenxin and Chen, Bin and Zhou, Fan and Zhong, Ting and Trajcevski, Goce and Wang, Yong and Chen, Kai",
+    abstract = {The rising popularity of online social network services has attracted a lot of research focusing on mining various user patterns. Among them, accurate IP geolocation is essential for a plethora of location-aware applications. However, despite extensive research efforts and significant advances, the "accurate and reliable'' desideratum is yet to be achieved at a higher quality level. This work presents a graph neural network (GNN)-based model, called TrustGeo, for trustworthy street-level IP geolocation. A distinct and important aspect of TrustGeo is the incorporation of sources of uncertainty in the learning process. The results of our extensive experimental evaluations on three real-world datasets demonstrate the superiority of our framework in significantly improving the accuracy and trustworthiness of street-level IP geolocation. Our code and datasets are available at https://github.com/ICDM-UESTC/TrustGeo.},
+    address = "New York, NY, USA",
+    booktitle = "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+    doi = "10.1145/3580305.3599920",
+    isbn = "9798400701030",
+    keywords = "trustworthy system, network uncertainty, ip geolocation, graph neural networks, evidential deep learning",
+    location = "Long Beach, CA, USA",
+    numpages = "10",
+    pages = "4862–4871",
+    publisher = "Association for Computing Machinery",
+    series = "KDD '23",
+    title = "{TrustGeo: Uncertainty-Aware Dynamic Graph Learning for Trustworthy IP Geolocation}",
+    url = "https://doi.org/10.1145/3580305.3599920",
+    year = "2023"
+}
