@@ -1,16 +1,11 @@
 @inproceedings{REPO138,
     author = "Tai, Wenxin and Chen, Bin and Zhou, Fan and Zhong, Ting and Trajcevski, Goce and Wang, Yong and Chen, Kai",
-    address = "New York, NY, USA",
     booktitle = "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
     doi = "10.1145/3580305.3599920",
-    isbn = "9798400701030",
-    keywords = "trustworthy system, network uncertainty, ip geolocation, graph neural networks, evidential deep learning",
     location = "Long Beach, CA, USA",
     numpages = "10",
     pages = "4862–4871",
-    publisher = "Association for Computing Machinery",
     series = "KDD '23",
     title = "{TrustGeo: Uncertainty-Aware Dynamic Graph Learning for Trustworthy IP Geolocation}",
-    url = "https://doi.org/10.1145/3580305.3599920",
     year = "2023"
 }
