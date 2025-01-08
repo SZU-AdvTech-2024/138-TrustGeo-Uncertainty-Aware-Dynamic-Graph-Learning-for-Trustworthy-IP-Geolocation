@@ -1,0 +1,11 @@
+*********Los_Angeles*********
+dim_in=30, early_stop_epoch=50, harved_epoch=5, saved_epoch=200, lambda=0.007, lr=0.003, model_name=TrustGeo, seed=2022,
+
+*********epoch=200*********
+test: mse: 25.692	mae: 2.797	test median: 1.763
+*********epoch=400*********
+test: mse: 25.752	mae: 2.787	test median: 1.744
+*********epoch=600*********
+test: mse: 25.852	mae: 2.783	test median: 1.734
+*********epoch=800*********
+test: mse: 25.954	mae: 2.780	test median: 1.722

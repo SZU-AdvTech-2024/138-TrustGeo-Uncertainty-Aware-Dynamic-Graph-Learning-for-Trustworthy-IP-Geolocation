@@ -1,0 +1,19 @@
+*********New_York*********
+dim_in=30, early_stop_epoch=50, harved_epoch=5, saved_epoch=200, lambda=0.007, lr=0.005, model_name=TrustGeo, seed=2022,
+*********New_York*********
+dim_in=30, early_stop_epoch=50, harved_epoch=5, saved_epoch=200, lambda=0.007, lr=0.005, model_name=TrustGeo, seed=2022,
+*********New_York*********
+dim_in=30, early_stop_epoch=50, harved_epoch=5, saved_epoch=200, lambda=0.007, lr=0.005, model_name=TrustGeo, seed=2022,
+*********New_York*********
+dim_in=30, early_stop_epoch=50, harved_epoch=5, saved_epoch=200, lambda=0.007, lr=0.005, model_name=TrustGeo, seed=2022,
+*********New_York*********
+dim_in=30, early_stop_epoch=50, harved_epoch=5, saved_epoch=200, lambda=0.007, lr=0.005, model_name=TrustGeo, seed=2022,
+
+*********epoch=200*********
+test: mse: 5.142	mae: 1.312	test median: 0.878
+*********epoch=400*********
+test: mse: 5.131	mae: 1.308	test median: 0.875
+*********epoch=600*********
+test: mse: 5.132	mae: 1.306	test median: 0.871
+*********epoch=800*********
+test: mse: 5.138	mae: 1.305	test median: 0.869

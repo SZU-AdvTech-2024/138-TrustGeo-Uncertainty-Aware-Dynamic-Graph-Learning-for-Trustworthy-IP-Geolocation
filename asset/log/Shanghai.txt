@@ -1,0 +1,11 @@
+*********Shanghai*********
+dim_in=51, early_stop_epoch=50, harved_epoch=5, saved_epoch=200, lambda=0.001, lr=0.0015, model_name=TrustGeo, seed=2022,
+
+*********epoch=200*********
+test: mse: 70.817	mae: 5.493	test median: 3.679
+*********epoch=400*********
+test: mse: 70.470	mae: 5.467	test median: 3.643
+*********epoch=600*********
+test: mse: 70.458	mae: 5.466	test median: 3.639
+*********epoch=800*********
+test: mse: 70.450	mae: 5.466	test median: 3.639
